@@ -1,0 +1,24 @@
+{
+  "fisrt_name" : "Mohit",
+  "last_name" : "Mehta",
+  "id" : "Mohit_126",
+  "designation" : "Associate QA Lead",
+  "Address" :
+  [
+    {
+       "House_No" : "29 A",
+       "Block" : "A3/A",
+       "Place" : "Mayur Vihar Phase 4",
+       "District" : "East Delhi",
+       "Type" : "Primary Address"
+       }, 
+       
+     {
+       "House_No" : "89 C",
+       "Block" : "A9/A",
+       "Place" : "Mayur Vihar Phase 5",
+       "District" : "East Delhi",
+       "Type" : "Secondary Address"     
+       }  
+   ]    
+}
