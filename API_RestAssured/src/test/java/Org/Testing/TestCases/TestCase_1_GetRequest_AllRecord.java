@@ -13,12 +13,12 @@ public class TestCase_1_GetRequest_AllRecord
     	given()
     	.contentType(ContentType.JSON)
     	.when()
-    	.get(" http://localhost:3000/PostmanAPIFolks ");
+    	.get("http://localhost:3000/PostmanAPIFolks");
     	
     	System.out.println(" The Status Code of the Request is ");
     	System.out.println(Res.statusCode());
     	
-    	System.out.println(" The Response Data of the Request is ");
+    	System.out.println("The Response Data of the Request is");
     	System.out.println(Res.asString());
     	
 	}
